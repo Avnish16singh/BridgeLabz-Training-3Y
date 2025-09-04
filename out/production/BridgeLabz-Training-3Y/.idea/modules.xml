@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BridgeLabz-Training-3Y.iml" filepath="$PROJECT_DIR$/BridgeLabz-Training-3Y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMethodsPractice/JavaMethodsPractice.iml" filepath="$PROJECT_DIR$/JavaMethodsPractice/JavaMethodsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_Problem/Practice_Problem.iml" filepath="$PROJECT_DIR$/Practice_Problem/Practice_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming_Elements/Programming_Elements.iml" filepath="$PROJECT_DIR$/Programming_Elements/Programming_Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlFlow/controlFlow.iml" filepath="$PROJECT_DIR$/controlFlow/controlFlow.iml" />
+    </modules>
+  </component>
+</project>

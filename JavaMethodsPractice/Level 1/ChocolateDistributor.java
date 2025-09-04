@@ -6,6 +6,7 @@ class ChocolateDistributor {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter number of Chocolates ");
         int chocolates = sc.nextInt();
         int children = sc.nextInt();
         int[] res = findRemainderAndQuotient(chocolates, children);
